@@ -9,6 +9,7 @@ gem 'rails', '3.2.1'
 gem 'ancestry'
 gem 'stringex'
 gem 'heroku'
+gem 'therubyracer'
 
 group :development, :test do
   gem 'sqlite3'
